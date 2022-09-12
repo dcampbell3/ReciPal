@@ -1,1 +1,1 @@
-# ReciPal
+# ReciPal: ME491 Project
