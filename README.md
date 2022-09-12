@@ -1,1 +1,1 @@
-# ReciPal: ME491 Project
+# ReciPal: The Home Cook's Best Friend
